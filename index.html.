@@ -1,1 +1,15 @@
-https://github.com/pon-sys/project/edit/main/index.html.
+<html>
+    <title>сайт</title>
+ <body>
+     <header>
+         шапка  
+        </header>
+       <main>
+        <h1> заголовок   </h1>
+        <h2> подзаголовок </h2>
+       </main>
+   <foter>
+         подвал <img src="/uploads/2020/09/curling-769673_640_0_1601463922.jpg" width="600px" height="550px"/>
+        </foter>
+    </body>
+</html>
